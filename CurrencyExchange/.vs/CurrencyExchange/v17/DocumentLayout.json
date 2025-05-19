@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\services\\currencyexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\services\\currencyexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\controllers\\currencyexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\controllers\\currencyexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\validators\\transferrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\validators\\transferrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\proxies\\frankfurterapiproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\proxies\\frankfurterapiproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\validators\\createquoterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\validators\\createquoterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|d:\\projects\\currencyexchange\\currencyexchange\\currencyexchange.dtos\\requests\\transferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|solutionrelative:currencyexchange.dtos\\requests\\transferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|d:\\projects\\currencyexchange\\currencyexchange\\currencyexchange.dtos\\response\\transferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|solutionrelative:currencyexchange.dtos\\response\\transferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|d:\\projects\\currencyexchange\\currencyexchange\\currencyexchange.dtos\\requests\\createquoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|solutionrelative:currencyexchange.dtos\\requests\\createquoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|d:\\projects\\currencyexchange\\currencyexchange\\currencyexchange.dtos\\response\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|solutionrelative:currencyexchange.dtos\\response\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\validators\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\validators\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|d:\\projects\\currencyexchange\\currencyexchange\\currencyexchange.dtos\\response\\createquoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A041F90-9804-44D3-8EE9-A3C286517BDF}|CurrencyExchange.Dtos\\CurrencyExchangeApi.Dtos.csproj|solutionrelative:currencyexchange.dtos\\response\\createquoteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\currencyexchangeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\currencyexchangeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|d:\\projects\\currencyexchange\\currencyexchange\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94869B18-AFAD-49F6-8A35-1C38BA144CD7}|WebApplication1\\CurrencyExchangeApi.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyExchangeController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Controllers\\CurrencyExchangeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CurrencyExchangeController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Controllers\\CurrencyExchangeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CurrencyExchangeController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwEwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:01:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferRequestValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Validators\\TransferRequestValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validators\\TransferRequestValidator.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Validators\\TransferRequestValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Validators\\TransferRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:06:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrankfurterApiProxy.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Proxies\\FrankfurterApiProxy.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Proxies\\FrankfurterApiProxy.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Proxies\\FrankfurterApiProxy.cs",
+              "RelativeToolTip": "WebApplication1\\Proxies\\FrankfurterApiProxy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA5wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:24:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateQuoteRequestValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Validators\\CreateQuoteRequestValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validators\\CreateQuoteRequestValidator.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Validators\\CreateQuoteRequestValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Validators\\CreateQuoteRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:58:08.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransferRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Requests\\TransferRequest.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange.Dtos\\Requests\\TransferRequest.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Requests\\TransferRequest.cs",
+              "RelativeToolTip": "CurrencyExchange.Dtos\\Requests\\TransferRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:04:44.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyExchangeService.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Services\\CurrencyExchangeService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\CurrencyExchangeService.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Services\\CurrencyExchangeService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\CurrencyExchangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:42:01.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Constants.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Constants.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Constants.cs",
+              "RelativeToolTip": "WebApplication1\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:15:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:49:23.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransferResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Response\\TransferResponse.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange.Dtos\\Response\\TransferResponse.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Response\\TransferResponse.cs",
+              "RelativeToolTip": "CurrencyExchange.Dtos\\Response\\TransferResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:05:26.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppState.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\AppState.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AppState.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\AppState.cs",
+              "RelativeToolTip": "WebApplication1\\AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:26:06.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Validators\\BaseValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validators\\BaseValidator.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Validators\\BaseValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Validators\\BaseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:02:14.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateQuoteRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Requests\\CreateQuoteRequest.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange.Dtos\\Requests\\CreateQuoteRequest.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Requests\\CreateQuoteRequest.cs",
+              "RelativeToolTip": "CurrencyExchange.Dtos\\Requests\\CreateQuoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:33:41.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Response\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange.Dtos\\Response\\ExchangeRateResponse.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Response\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "CurrencyExchange.Dtos\\Response\\ExchangeRateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:21:16.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateQuoteResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Response\\CreateQuoteResponse.cs",
+              "RelativeDocumentMoniker": "CurrencyExchange.Dtos\\Response\\CreateQuoteResponse.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\CurrencyExchange.Dtos\\Response\\CreateQuoteResponse.cs",
+              "RelativeToolTip": "CurrencyExchange.Dtos\\Response\\CreateQuoteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:37:13.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:53:42.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-17T13:53:03.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T13:48:42.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CurrencyExchangeApi",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\CurrencyExchangeApi.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\CurrencyExchangeApi.csproj",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\CurrencyExchangeApi.csproj",
+              "RelativeToolTip": "WebApplication1\\CurrencyExchangeApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T13:46:38.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\CurrencyExchange\\CurrencyExchange\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:38:30.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
