@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencyExchangeApi.Dtos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d48fb064e96290addac132242b26f477248392")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5192f3af52aba8cb84fea6223caa0bc8440d49b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencyExchangeApi.Dtos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencyExchangeApi.Dtos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
