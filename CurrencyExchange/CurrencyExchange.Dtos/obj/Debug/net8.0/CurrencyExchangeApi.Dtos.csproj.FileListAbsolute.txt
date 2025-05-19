@@ -1,0 +1,12 @@
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\bin\Debug\net8.0\CurrencyExchangeApi.Dtos.deps.json
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\bin\Debug\net8.0\CurrencyExchangeApi.Dtos.dll
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\bin\Debug\net8.0\CurrencyExchangeApi.Dtos.pdb
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.AssemblyInfoInputs.cache
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.AssemblyInfo.cs
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.csproj.CoreCompileInputs.cache
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.sourcelink.json
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.dll
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\refint\CurrencyExchangeApi.Dtos.dll
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\CurrencyExchangeApi.Dtos.pdb
+D:\Projects\CurrencyExchange\CurrencyExchange\CurrencyExchange.Dtos\obj\Debug\net8.0\ref\CurrencyExchangeApi.Dtos.dll
