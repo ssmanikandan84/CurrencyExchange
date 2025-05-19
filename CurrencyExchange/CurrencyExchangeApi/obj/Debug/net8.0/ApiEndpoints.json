@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "CurrencyExchangeApi.Controllers.CurrencyExchangeController",
+    "Method": "CreateTransfer",
+    "RelativePath": "api/CurrencyExchange/transfers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferRequest",
+        "Type": "CurrencyExchangeApi.Dtos.Requests.TransferRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyExchangeApi.Controllers.CurrencyExchangeController",
+    "Method": "RetrieveTransfer",
+    "RelativePath": "api/CurrencyExchange/transfers/{transferId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyExchangeApi.Controllers.CurrencyExchangeController",
+    "Method": "CreateQuote",
+    "RelativePath": "api/CurrencyExchange/transfers/quote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createQuoteRequest",
+        "Type": "CurrencyExchangeApi.Dtos.Requests.CreateQuoteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyExchangeApi.Controllers.CurrencyExchangeController",
+    "Method": "RetrieveQuote",
+    "RelativePath": "api/CurrencyExchange/transfers/quote/{quoteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
